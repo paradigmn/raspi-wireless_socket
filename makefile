@@ -13,5 +13,12 @@ send.o: send.c
 error.o: error.c
 	gcc -c error.c
 
-clean:
+ install:
+	install --mode=755 wifiplug /usr/bin/
+
+ clean:
 	rm -f *.o main calc send error
+	rm -f wifiplug
+
+ uninstall:
+	rm /usr/bin/wifiplug

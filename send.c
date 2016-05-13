@@ -30,7 +30,7 @@ void send_key(int key)
         }
     }
     else
-        printf("blub");
+        error(3);
 }
 
 
