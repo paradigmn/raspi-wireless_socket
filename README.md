@@ -1,7 +1,7 @@
 # raspi-wireless_socket
 Operate wireless-sockets with a Raspberry Pi
 
-**Note:** This was a quick and dirty attempt to control wireless sockets a a raspberry pi with a generic 433Mhz transmitter. The software is no longer maintained and there are most likely better approches to do this.
+**Note:** This was a quick and dirty attempt to control wireless sockets on a raspberry pi with a generic 433Mhz transmitter. The software is no longer maintained and there are most likely better approches to do this.
 
 Further Description
   - Operate your wireless-sockets with the Raspberry Pi and a generic 433Mhz transmition unit.
